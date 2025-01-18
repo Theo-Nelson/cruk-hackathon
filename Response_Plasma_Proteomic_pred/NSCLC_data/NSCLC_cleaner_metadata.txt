@@ -1,0 +1,144 @@
+Patient	Running batch	Set	ORR	Sex	Age	BMI result	Treatment type	Is first line?	ECOG	Histological Type	PD-L1	KRAS mutation	TP53 mutation	Metastatic Location Bone	Metastatic Location Brain	Metastatic Location Liver	Metastatic Location Pleura	Metastatic Location Lung	Smoking history	TNM - T	TNM - N	TNM - M	Time from 1st treatment	OS event (1= death)
+IL-006-1002-NSCLC	Cohort 2	Train	NR	F	76	Mild thinness	a-PD1	yes	0	Adenocarcinoma	50% or more			+	+				Yes (or stopped less than a year)	T0	N1	M0	158	1
+IL-006-1003-NSCLC	Cohort 2	Development	R	F	66	Obese Class I	a-PD1	yes	1	Adenocarcinoma	less than 1%						+		Stopped between 1-10 years ago	T3	N1	Mx	600	1
+IL-006-1004-NSCLC	Cohort 2	Train	R	M	77	Obese Class II	a-PD1	no	2	Squamous cell lung cancer	1-49%		TP53						Stopped over 10 years ago	T3	N2	M0	761	0
+IL-006-1005-NSCLC	Cohort 2	Development	NR	M	69	Normal	a-PD1	no	1	Adenocarcinoma						+	+		Never	T2	N0	M1a	227	1
+IL-006-1006-NSCLC	Cohort 2	Development	R	M	74	Overweight	a-PD1	no	1	Squamous cell lung cancer									Yes (or stopped less than a year)	T3	N1	M0	635	1
+IL-006-1007-NSCLC	Cohort 2	Test	R	F	74	Normal	a-PD1	yes	1	Adenocarcinoma	50% or more			+			+		Yes (or stopped less than a year)	T1	N0	M0	1136	0
+IL-006-1008-NSCLC	Cohort 2	Test	R	M	72	Normal	a-PD1	yes	0	Adenocarcinoma	50% or more		TP53		+				Yes (or stopped less than a year)	T2	N0	M1	997	1
+IL-006-1009-NSCLC	Cohort 2	Train	R	M	60	Obese Class I	a-PD1	yes	1	Adenocarcinoma	50% or more						+		Yes (or stopped less than a year)	T3	N2	M1a	1183	0
+IL-006-1010-NSCLC	Cohort 2	Test	NR	M	66	Overweight	a-PD1	yes	0	Adenocarcinoma	50% or more		TP53	+			+		Stopped between 1-10 years ago	T1a	N0	Mx	409	1
+IL-006-1011-NSCLC	Cohort 2	Train	NR	F	58	Normal	a-PD1	yes	1	Adenocarcinoma	50% or more			+	+	+	+		Stopped over 10 years ago	T4	N3	M1c	416	1
+IL-006-1012-NSCLC	Cohort 2	Test	NR	M	54	Normal	a-PD1	no	0	Adenocarcinoma	50% or more					+	+		Yes (or stopped less than a year)	Tx	N3	M1	228	1
+IL-006-1013-NSCLC	Cohort 2	Train	NR	M	64	Mild Thinness	a-PD1	no	2	Adenocarcinoma	1-49%			+					Yes (or stopped less than a year)	T3	N1	M1b	43	1
+IL-006-1015-NSCLC	Cohort 2	Train	R	M	68	Moderate Thinness	a-PD1	no	1	Squamous cell lung cancer	1-49%		TP53	+					Yes (or stopped less than a year)	T1	N0	M1	622	1
+IL-006-1016-NSCLC	Cohort 2	Train	R	M	66	Normal	a-PD1	no	1	Squamous cell lung cancer	less than 1%								Stopped over 10 years ago	T2	N0	M1	192	1
+IL-006-1017-NSCLC	Cohort 2	Train	NR	M	61	Normal	a-PD1	yes	1	Squamous cell lung cancer	50% or more								Yes (or stopped less than a year)	T2	N2	M1	350	1
+IL-006-1018-NSCLC	Cohort 2	Train	NR	M	49	Obese Class I	a-PD1	no	0	Adenocarcinoma	1-49%			+	+				Yes (or stopped less than a year)	T4	N2	M1	398	1
+IL-006-1019-NSCLC	Cohort 2	Train	NR	M	66	Overweight	a-PD1	no	1	Squamous cell lung cancer	less than 1%			+					Stopped over 10 years ago	T4	N3	M1	61	1
+IL-006-1020-NSCLC	Cohort 2	Development	R	M	62	Normal	a-PD1	no	2	Adenocarcinoma	less than 1%		TP53	+				+	Yes (or stopped less than a year)	T4	N2	M0	673	0
+IL-006-1021-NSCLC	Cohort 2	Test	R	M	67	Overweight	a-PD1	yes	0	Adenocarcinoma	50% or more								Yes (or stopped less than a year)	T3	N3	M1	939	0
+IL-006-1022-NSCLC	Cohort 2	Development	NR	M	78	Normal	a-PD1	no	0	Adenocarcinoma	less than 1%			+			+		Never	T1	N0	M1c	69	1
+IL-006-1023-NSCLC	Cohort 2	Test	R	F	64		a-PD1	no	1	Adenocarcinoma	less than 1%	KRAS			+				Stopped between 1-10 years ago	T4	N0	M0	880	1
+IL-006-1024-NSCLC	Cohort 2	Train	NR	M	62	Overweight	a-PD1	yes	0	Adenocarcinoma	50% or more								Stopped over 10 years ago	T2	N0	M1	430	1
+IL-006-1025-NSCLC	Cohort 2	Train	R	M	60	Overweight	a-PD-L1	no	3	Adenocarcinoma	1-49%	KRAS	TP53	+	+		+		Yes (or stopped less than a year)	T3	N2	M0	881	0
+IL-006-1026-NSCLC	Cohort 2	Train	NR	M	70	Normal	a-PD1	no	0	Adenocarcinoma	less than 1%						+		Stopped between 1-10 years ago	Tx	Nx	M1	191	1
+IL-006-1027-NSCLC	Cohort 2	Train	NR	F	61	Overweight	a-PD-L1	no	3	Other	less than 1%			+					Stopped over 10 years ago	T3	N3	M1	50	1
+IL-006-1028-NSCLC	Cohort 2	Development	NR	M	60	Overweight	a-PD1	no	0	Adenocarcinoma	less than 1%						+		Never	T4	N3	M0	868	0
+IL-006-1029-NSCLC	Cohort 2	Train	R	M	71	Normal	a-PD1	yes	1	Squamous cell lung cancer	50% or more		TP53						Yes (or stopped less than a year)	T2	N2	M1	568	1
+IL-006-1030-NSCLC	Cohort 2	Test	R	M	73	Overweight	a-PD1	yes	1	Squamous cell lung cancer	50% or more								Yes (or stopped less than a year)	T2	N1	M0	784	0
+IL-006-1031-NSCLC	Cohort 2	Development	NR	F	67	Normal	a-PD1	no	1	Adenocarcinoma	less than 1%			+					Never	T1	N1	M0	797	0
+IL-006-1032-NSCLC	Cohort 2	Train	R	M	77	Overweight	a-PD1	no	2	Squamous cell lung cancer	50% or more								Yes (or stopped less than a year)	T1	N0	M0	792	0
+IL-006-1033-NSCLC	Cohort 2	Test	NR	M	61	Overweight	a-PD1	yes	1	Adenocarcinoma	50% or more				+				Stopped between 1-10 years ago	Tx	N2	M1	82	1
+IL-006-1035-NSCLC	Cohort 2	Train	R	M	68	Overweight	a-PD-L1	no	2	Adenocarcinoma	50% or more	KRAS			+				Yes (or stopped less than a year)	T3	N0	M0	671	0
+IL-006-1036-NSCLC	Cohort 2	Train	R	M	78	Normal	a-PD1	yes	0	Adenocarcinoma	50% or more	KRAS							Stopped over 10 years ago	T3	N1	M1	351	1
+IL-006-1037-NSCLC	Cohort 2	Train	R	F	75	Overweight	a-PD1	no	1	Adenocarcinoma	50% or more	KRAS							Stopped between 1-10 years ago	T4	N0	M0	630	0
+IL-006-1038-NSCLC	Cohort 2	Development	NR	F	82	Normal	a-PD1	yes	1	Squamous cell lung cancer	50% or more								Stopped over 10 years ago	T2	N3	M0	325	1
+IL-006-1039-NSCLC	Cohort 2	Development	R	M	70	Normal	a-PD1	yes	1	Other	50% or more								Yes (or stopped less than a year)	T1	N3	M1b	595	0
+IL-006-1040-NSCLC	Cohort 2	Test	R	M	61	Normal	a-PD1	yes	0	Adenocarcinoma	50% or more	KRAS	TP53		+		+		Stopped over 10 years ago	T2	N1	M1	588	0
+IL-006-1041-NSCLC	Cohort 2	Test	NR	F	65	Normal	a-PD1	yes	1	Squamous cell lung cancer	50% or more						+		Stopped between 1-10 years ago	T4	N3	M1c	224	0
+IL-006-1042-NSCLC	Cohort 2	Test	R	F	85	Overweight	a-PD1	no	2	Squamous cell lung cancer	50% or more		TP53						Stopped between 1-10 years ago	T4	N0	M0	579	0
+IL-006-1044-NSCLC	Cohort 2	Train	R	F	79	Obese Class I	a-PD1	no	1	Adenocarcinoma	50% or more	KRAS	TP53						Never	T2	Nx	Mx	263	1
+IL-006-1045-NSCLC	Cohort 2	Development	R	M	72	Overweight	a-PD1	no	0	Squamous cell lung cancer	50% or more		TP53		+				Never	T1	N0	M0	462	1
+IL-006-1046-NSCLC	Cohort 2	Development	R	M	73	Overweight	a-PD1	yes	2	Adenocarcinoma	50% or more			+					Stopped over 10 years ago	T1	N3	M1c	406	0
+IL-006-1047-NSCLC	Cohort 2	Train	R	M	72		a-PD1	no	1	Adenocarcinoma	50% or more	KRAS							Yes (or stopped less than a year)	T1	N0	M0	442	0
+IL-006-1048-NSCLC	Cohort 2	Train	R	M	60	Normal	a-PD-L1	no	1	Adenocarcinoma	less than 1%			+					Yes (or stopped less than a year)	T2	N2	M0	360	0
+IL-006-1049-NSCLC	Cohort 2	Development	R	F	66	Moderate Thinness	a-PD-L1	no	1	Adenocarcinoma	less than 1%			+					Yes (or stopped less than a year)	Tx	N2	M1b	321	0
+IL-006-1050-NSCLC	Cohort 2	Train	NR	F	69	Severe Thinness	a-PD1	no	2	Adenocarcinoma							+		Yes (or stopped less than a year)	T2	N2	M1	53	1
+IL-006-1051-NSCLC	Cohort 2	Development	R	M	60	Normal	ICI+Chemo	no	1	Adenocarcinoma	50% or more			+	+	+	+		Never	T2	N2	M1c	572	0
+IL-006-1053-NSCLC	Cohort 2	Train	R	M	62	Normal	ICI+Chemo	yes	1	Other	1-49%			+			+		Yes (or stopped less than a year)	T3	N3	M1	460	0
+IL-006-1054-NSCLC	Cohort 2	Development	R	F	57	Normal	ICI+Chemo	no	1	Adenocarcinoma	1-49%			+		+			Yes (or stopped less than a year)	T2	N2	M0	633	0
+IL-006-1055-NSCLC	Cohort 2	Train	R	M	69	Normal	ICI+Chemo	yes	1	Adenocarcinoma			TP53						Never	T2	N1	M1	468	0
+IL-006-1056-NSCLC	Cohort 2	Test	R	M	55	Normal	ICI+Chemo	yes	1	Adenocarcinoma	50% or more		TP53				+		Yes (or stopped less than a year)	Tx	Nx	M1b	406	0
+IL-006-1057-NSCLC	Cohort 2	Train	R	M	78	Overweight	ICI+Chemo	yes	0	Adenocarcinoma	50% or more	KRAS							Stopped over 10 years ago	T1	N2	M1	422	0
+IL-006-1058-NSCLC	Cohort 2	Train	R	F	60	Normal	ICI+Chemo	no	1	Adenocarcinoma	less than 1%	KRAS	TP53						Yes (or stopped less than a year)	T4	N0	M0	419	0
+IL-006-1059-NSCLC	Cohort 2	Train	R	F	76	Overweight	ICI+Chemo	yes	1	Adenocarcinoma	50% or more	KRAS		+			+		Stopped between 1-10 years ago	T4	N3	M1	368	0
+IL-006-1060-NSCLC	Cohort 2	Train	R	M	69	Normal	ICI+Chemo	yes	0	Squamous cell lung cancer	50% or more						+		Stopped between 1-10 years ago	T2	N1	M1	336	0
+IL-006-1061-NSCLC	Cohort 2	Train	R	M	81	Overweight	ICI+Chemo	yes	0	Adenocarcinoma	1-49%								Stopped over 10 years ago	T4	N0	M0	587	0
+IL-006-1062-NSCLC	Cohort 2	Development	R	F	71	Normal	ICI+Chemo	yes	0	Adenocarcinoma	50% or more	KRAS							Stopped over 10 years ago	T2	N2	M1a	312	0
+IL-006-1063-NSCLC	Cohort 2	Test	NR	M	62	Obese Class I	ICI+Chemo	yes	1	Adenocarcinoma	1-49%	KRAS		+		+			Stopped over 10 years ago	T3	N2	M1c	73	1
+IL-006-9001-NSCLC	Cohort 1A	Train	NR	M	55	Overweight	a-PD1	no		Adenocarcinoma	1-49%	NA	NA							rTx	pNx	pM1	56	1
+IL-006-9002-NSCLC	Cohort 1A	Development	NR	M	55	Normal	a-PD1	no		Adenocarcinoma	less than 1%	NA	NA							Ct3	cN1	cM1	342	0
+IL-006-9003-NSCLC	Cohort 1A	Test	NR	M	67	Overweight	a-PD1	no		Adenocarcinoma		NA	NA	+		+				rTX	pNX	pM1	239	0
+IL-006-9004-NSCLC	Cohort 1A	Train	R	M	72	Overweight	a-PD1	no		Adenocarcinoma		NA	NA		+	+				cT3	cN2	cM1	280	0
+IL-006-9005-NSCLC	Cohort 1A	Train	R	M	64	Overweight	a-PD1	no		Adenocarcinoma	less than 1%	NA	NA		+					cT3	cN1	cM1	1331	0
+IL-006-9006-NSCLC	Cohort 1A	Development	R	M	68	Obese Class I	a-PD1	no		Adenocarcinoma		NA	NA	+		+		+		cTX	cNX	cM1	225	0
+IL-006-9007-NSCLC	Cohort 1A	Test	NR	M	47	Obese Class I	a-PD1	no		Adenocarcinoma		NA	NA							cT3	cN3	cM1a	308	0
+IL-006-9008-NSCLC	Cohort 1A	Train	NR	M	73	Normal	a-PD1	no		Adenocarcinoma		NA	NA							cTX	cN3	cM1	316	0
+IL-006-9009-NSCLC	Cohort 1A	Train	NR	M	55	Normal	a-PD1	no		Adenocarcinoma		NA	NA							cT3	cN2	cM1	400	0
+IL-006-9010-NSCLC	Cohort 1A	Train	NR	M	65	Overweight	a-PD1	no		Adenocarcinoma	less than 1%	NA	NA							CT2	cN1	cM1	351	1
+IL-006-9011-NSCLC	Cohort 1A	Test	NR	M	80	Normal	a-PD1	no		Adenocarcinoma	1-49%	NA	NA							cT1	cNX	cM1b	439	0
+IL-006-9012-NSCLC	Cohort 1A	Train	NR	M	64	Normal	a-PD1	no		Adenocarcinoma		NA	NA	+						rTX	pNX	pM1	526	0
+IL-006-9013-NSCLC	Cohort 1A	Train	NR	M	52	Overweight	a-PD1	no		Adenocarcinoma	less than 1%	NA	NA							cT2	cNX	cM1	172	1
+IL-006-9014-NSCLC	Cohort 1A	Development	NR	M	52	Normal	a-PD1	no		Adenocarcinoma	less than 1%	NA	NA					+		cT2	cN2	cM1	924	0
+IL-006-9015-NSCLC	Cohort 1A	Development	NR	M	60	Obese Class I	a-PD1	no		Adenocarcinoma		NA	NA							cT4	pN3	cM1b	285	1
+IL-006-9016-NSCLC	Cohort 1A	Test	NR	M	78	Overweight	a-PD1	no		Adenocarcinoma	1-49%	NA	NA							cT1	cN2	cM1a	160	1
+IL-006-9017-NSCLC	Cohort 1A	Train	NR	M	58	Obese Class I	a-PD1	no		Adenocarcinoma		NA	NA							rTX	pNX	pM1	228	0
+IL-006-9018-NSCLC	Cohort 1A	Development	NR	M	64	Overweight	a-PD1	no		Adenocarcinoma	less than 1%	NA	NA							cTX	cN3	cM1	154	0
+IL-006-9019-NSCLC	Cohort 1A	Test	R	M	55	Normal	a-PD1	no		Adenocarcinoma	1-49%	NA	NA							cT4	cN3	cM1b	590	0
+IL-006-9020-NSCLC	Cohort 1A	Test	NR	M	49	Overweight	a-PD1	no		Adenocarcinoma		NA	NA							cT3	cN3	cM1	140	0
+IL-006-9021-NSCLC	Cohort 1A	Train	R	M	56	Normal	a-PD1	yes		Adenocarcinoma	50% or more	NA	NA							cT2	cN3	cM1a	740	0
+IL-006-9022-NSCLC	Cohort 1A	Train	R	M	70	Normal	a-PD1	no		Adenocarcinoma	1-49%	NA	NA			+				rTX	pNX	pM1	941	0
+IL-006-9023-NSCLC	Cohort 1A	Train	NR	M	78	Normal	a-PD1	yes		Adenocarcinoma	1-49%	NA	NA		+					pT4	pN1	pM1b	109	0
+IL-006-9024-NSCLC	Cohort 1A	Test	R	F	51	Normal	a-PD1	no		Adenocarcinoma	1-49%	NA	NA							cT2	cN1	cM1	556	0
+IL-006-9026-NSCLC	Cohort 1A	Train	R	F	59	Normal	a-PD1	no		Adenocarcinoma	1-49%	NA	NA							pT3	pN2	pM1a	986	0
+IL-006-9027-NSCLC	Cohort 1A	Development	R	F	50	Obese Class I	a-PD1	yes		Adenocarcinoma	50% or more	NA	NA							cTX	cNX	cM1	327	1
+IL-006-9028-NSCLC	Cohort 1A	Train	R	F	70	Normal	a-PD1	yes		Adenocarcinoma	1-49%	NA	NA							cTX	cNX	cM1	195	0
+IL-006-9030-NSCLC	Cohort 1A	Development	R	F	64		a-PD1	yes		Adenocarcinoma	50% or more	NA	NA							cT3	cN2	cM1	730	0
+IL-006-9032-NSCLC	Cohort 1A	Train	R	F	56	Overweight	a-PD1	no		Adenocarcinoma	50% or more	NA	NA							cT2	cN2	cM1	365	1
+IL-006-9033-NSCLC	Cohort 1A	Train	R	F	74		a-PD1	yes		Adenocarcinoma	50% or more	NA	NA					+		"rTX	"	"N0	"	M1	710	0
+IL-006-9034-NSCLC	Cohort 1A	Train	R	M	83	Normal	a-PD1	yes		Adenocarcinoma	1-49%	NA	NA							pTX	pNX	pM1a	372	1
+IL-006-9035-NSCLC	Cohort 1A	Test	R	M	55	Normal	a-PD1	no		Adenocarcinoma		NA	NA							cT3	cN3	cM1b	579	1
+IL-006-9036-NSCLC	Cohort 1A	Train	NR	M	80	Overweight	a-PD1	no		Adenocarcinoma	1-49%	NA	NA							rTX	NX	M1a	325	1
+IL-006-9037-NSCLC	Cohort 1A	Development	R	M	76	Normal	a-PD1	no		Adenocarcinoma		NA	NA							rT2	pN0	pM1b	854	0
+IL-006-9038-NSCLC	Cohort 1A	Train	NR	M	69	Overweight	a-PD1	yes		Adenocarcinoma	50% or more	NA	NA							cT2	cN3	cM1b	69	1
+IL-006-9039-NSCLC	Cohort 1A	Development	NR	M	64	Overweight	a-PD1	no		Adenocarcinoma	1-49%	NA	NA							cT3	cNX	cM1a	388	0
+IL-006-9040-NSCLC	Cohort 1A	Test	R	F	68	Obese Class I	a-PD1	no		Adenocarcinoma	1-49%	NA	NA							cT3	cN3	cM1	294	0
+IL-006-9200-NSCLC	Cohort 1B	Train	NR	M	65	Overweight	a-PD1	yes		Squamous cell lung cancer		NA	NA							cT4	cN2 c	M0 GU LX VX PnX	101	0
+IL-006-9201-NSCLC	Cohort 1B	Test	NR	F	61	Normal	a-PD1	no		Adenocarcinoma	1-49%	NA	NA							cT3	cN2 c	M1 GU LX VX PnX	205	1
+IL-006-9202-NSCLC	Cohort 1B	Train	NR	F	58	Normal	a-PD1	no		Adenocarcinoma	1-49%	NA	NA							pT2	pN3	cM0	129	1
+IL-006-9204-NSCLC	Cohort 1B	Development	R	F	75	Normal	a-PD1	no		Adenocarcinoma		NA	NA							cTX	cNX	cM1b	600	0
+IL-006-9205-NSCLC	Cohort 1B	Train	R	M	77	Normal	a-PD1	no		Adenocarcinoma	less than 1%	NA	NA							cT2	cN2	cM1 G3 L0 V0	298	0
+IL-006-9206-NSCLC	Cohort 1B	Development	NR	M	75	Normal	a-PD1	no		Squamous cell lung cancer	less than 1%	NA	NA							pT4	pN1	M1a	916	0
+IL-006-9207-NSCLC	Cohort 1B	Test	R	M	69	Obese Class I	a-PD1	no		Other	1-49%	NA	NA							rTX	pNX	pM1 GX LX VX	189	0
+IL-006-9208-NSCLC	Cohort 1B	Development	R	M	63	Normal	a-PD1	yes		Other	50% or more	NA	NA							cTX	cNX	cM1b GX LX VX	420	0
+IL-006-9210-NSCLC	Cohort 1B	Train	R	M	61	Normal	a-PD1	no		Adenocarcinoma		NA	NA							cTX	cNX	cM1	770	1
+IL-006-9211-NSCLC	Cohort 1B	Test	R	F	71	Overweight	a-PD1	no		Adenocarcinoma	50% or more 	NA	NA							cT4	cN2	cM1a	273	0
+IL-006-9212-NSCLC	Cohort 1B	Development	NR	F	70	Normal	a-PD1	no		Squamous cell lung cancer	1-49%	NA	NA							cT4	cN2	cM0	168	0
+IL-006-9213-NSCLC	Cohort 1B	Test	R	M	73	Overweight	a-PD1	no		Adenocarcinoma		NA	NA							rTX	pNX	pM1 GX LX VX PnX	133	0
+IL-006-9214-NSCLC	Cohort 1B	Train	NR	F	73	Normal	a-PD1	no		Adenocarcinoma		NA	NA							cT2	cN2	cM1	104	1
+IL-006-9215-NSCLC	Cohort 1B	Test	NR	F	64	Normal	a-PD1	no		Adenocarcinoma		NA	NA							cT3	cN3	cM0	245	1
+IL-006-9216-NSCLC	Cohort 1B	Test	R	M	70	Normal	a-PD1	yes		Adenocarcinoma		NA	NA							cT4	cN2	cM0	811	0
+IL-006-9217-NSCLC	Cohort 1B	Train	NR	M	60	Normal	a-PD1	yes		Squamous cell lung cancer	50% or more	NA	NA							cTX	cN0	cM1	343	1
+IL-006-9218-NSCLC	Cohort 1B	Development	NR	M	59	Overweight	a-PD1	no		Adenocarcinoma	less than 1%	NA	NA							cT4	cN2	cM1	560	0
+IL-006-9219-NSCLC	Cohort 1B	Train	NR	F	67	Normal	a-PD1	no		Adenocarcinoma		NA	NA							cT4	cN2	cM1	622	0
+IL-006-9220-NSCLC	Cohort 1B	Test	R	F	54	Obese Class III	a-PD1	no		Adenocarcinoma	1-49%	NA	NA							rT4	cN2	cM1a	817	0
+IL-006-9221-NSCLC	Cohort 1B	Train	R	F	65	Normal	a-PD1	yes		Squamous cell lung cancer	50% or more	NA	NA							cT4	cN3	cM1b	682	0
+IL-006-9222-NSCLC	Cohort 1B	Train	R	F	70	Normal	a-PD1	no		Adenocarcinoma	1-49%	NA	NA							cTX	cNX	cM1b G3	413	0
+IL-006-9223-NSCLC	Cohort 1B	Test	NR	M	55	Normal	a-PD1	no		Adenocarcinoma	1-49%	NA	NA							cT3	cN3	cM1	307	1
+IL-006-9225-NSCLC	Cohort 1B	Train	NR	M	80	Overweight	a-PD1	no		Squamous cell lung cancer		NA	NA							cT3	cN3	cM1 G2  LX VX PnX	222	1
+IL-006-9226-NSCLC	Cohort 1B	Development	NR	F	40	Moderate Thinness	a-PD1	yes		Adenocarcinoma	50% or more	NA	NA							cT4	cN3	cM1b G3	505	0
+IL-006-9227-NSCLC	Cohort 1B	Test	NR	M	61	Overweight	a-PD1	no		Squamous cell lung cancer		NA	NA	+						cT1	cN2	cM1b	242	1
+IL-006-9228-NSCLC	Cohort 1B	Train	NR	M	74	Normal	a-PD1	no		Adenocarcinoma	less than 1%	NA	NA							cT4	cN2	cM0 Gx	591	0
+IL-006-9229-NSCLC	Cohort 1B	Test	NR	F	82	Overweight	a-PD1	no		Adenocarcinoma		NA	NA	+						rTX	NX	M1	164	1
+IL-006-9230-NSCLC	Cohort 1B	Train	R	M	78		a-PD1	yes		Adenocarcinoma	1-49%	NA	NA							pT4	pN2	pM1a	390	0
+IL-006-9231-NSCLC	Cohort 1B	Development	R	F	50	Normal	a-PD1	no		Adenocarcinoma	1-49%	NA	NA	+	+	+				cT2	cN2	cM1	90	0
+IL-006-9232-NSCLC	Cohort 1B	Development	NR	F	69	Normal	a-PD1	no		Squamous cell lung cancer	1-49%	NA	NA							cT3	cN2	cM1a G3	150	1
+IL-006-9233-NSCLC	Cohort 1B	Development	NR	F	70	Normal	a-PD1	no		Adenocarcinoma		NA	NA	+						cTX	cNX	cM1b	101	1
+IL-006-9234-NSCLC	Cohort 1B	Train	R	F	66	Severe Thinness	a-PD1	no		Other	1-49%	NA	NA							cTX	cNX	cM1	537	0
+IL-006-9235-NSCLC	Cohort 1B	Train	R	M	79	Normal	a-PD1	yes		Other	1-49%	NA	NA							cT3	cN2	cM1b GX LX VX PnX	588	0
+IL-006-9236-NSCLC	Cohort 1B	Development	NR	M	65	Normal	a-PD1	no		Squamous cell lung cancer	less than 1%	NA	NA							cT1	cN0	cM1a	98	0
+IL-006-9237-NSCLC	Cohort 1B	Train	NR	F	60	Obese Class I	a-PD1	yes		Squamous cell lung cancer		NA	NA							cT4	cN2	cM0 G2	87	0
+IL-006-9238-NSCLC	Cohort 1B	Test	NR	M	62	Normal	a-PD1	no		Adenocarcinoma		NA	NA							cT2	cNX	cM1b	296	1
+IL-006-9239-NSCLC	Cohort 1B	Train	NR	M	71	Obese Class II	a-PD1	no		Other	1-49%	NA	NA							rcT0	cN	0 cM1 GU  LX VX Pn1	464	1
+IL-006-9240-NSCLC	Cohort 1B	Development	NR	F	61	Overweight	a-PD1	yes		Adenocarcinoma	less than 1%	NA	NA							rTX	NX	M1	223	1
+IL-006-9241-NSCLC	Cohort 1B	Train	NR	F	66	Overweight	a-PD1	no		Other	1-49%	NA	NA	+						rT2	pN0	pM1	690	0
+IL-006-9242-NSCLC	Cohort 1B	Train	NR	F	67	Normal	a-PD1	no		Other		NA	NA							rTX	pN3	pM1a	305	0
+IL-006-9243-NSCLC	Cohort 1B	Train	NR	M	67	Overweight	a-PD1	yes		Squamous cell lung cancer	less than 1%	NA	NA							rT4	pN1	pM1	576	1
+IL-006-9244-NSCLC	Cohort 1B	Train	NR	M	55	Mild Thinness	a-PD1	yes		Squamous cell lung cancer		NA	NA		+					cT3	cNX	cM1	203	1
+IL-006-9245-NSCLC	Cohort 1B	Test	NR	M	54	Normal	a-PD1	yes		Adenocarcinoma		NA	NA							cT2	cN0	cM1b G3	735	0
+IL-006-9246-NSCLC	Cohort 1B	Train	NR	F	59	Mild Thinness	a-PD1	no		Adenocarcinoma		NA	NA	+						rTX	pNX	pM1	434	0
+IL-006-9247-NSCLC	Cohort 1B	Development	NR	M	67	Overweight	a-PD1	yes		Squamous cell lung cancer		NA	NA							cT4	cN2	cM1 G2	822	0
+IL-006-9248-NSCLC	Cohort 1B	Train	NR	M	57	Normal	a-PD1	no		Adenocarcinoma	less than 1%	NA	NA							cT2	cN1	cM1	90	0
+IL-006-9251-NSCLC	Cohort 1B	Train	NR	F	63	Normal	a-PD1	no		Other	1-49%	NA	NA	+						cT3	cN1	cM1	373	1
+IL-006-9252-NSCLC	Cohort 1B	Test	NR	M	68	Normal	a-PD1	no		Adenocarcinoma		NA	NA							rTX	pNX	pM1	554	0
